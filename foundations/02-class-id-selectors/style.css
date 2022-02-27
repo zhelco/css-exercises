@@ -1,0 +1,19 @@
+.belava {
+    background-color: #f16969;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.belava.big-belava {
+    font-size: 24px;
+}
+
+#big-blue{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#bold-green {
+    background-color: #45a831;
+    font-size: 24px;
+    font-weight: bold;
+}
